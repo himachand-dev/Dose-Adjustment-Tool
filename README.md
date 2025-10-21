@@ -34,8 +34,8 @@ Follow these instructions to set up and run the dashboard locally.
 
 1.  **Clone the repository:**
     ```bash
-    git clone [YOUR_REPOSITORY_URL_HERE]
-    cd pediatric-dosing-dashboard # or your folder name
+    git clone (https://github.com/himachand-dev/Dose-Adjustment-Tool)
+    cd Dose-adjustment-Tool # or your folder name
     ```
 
 2.  **Create and activate a virtual environment (recommended):**
